@@ -1,3 +1,34 @@
+# 📄 CONSEGNA AZIENDALE – PROGETTO DATABASE SQL
+
+## 🏢 Contesto aziendale
+
+**Azienda:** BookWave S.r.l.  
+**Settore:** E-commerce di libri  
+**Dimensione:** Media impresa (circa 40 dipendenti)  
+**Sistema attuale:** Fogli Excel separati per clienti, libri e ordini  
+
+### Problema attuale
+L’azienda gestisce:
+- clienti
+- catalogo libri
+- ordini
+
+tramite file Excel non collegati tra loro.  
+Questo causa:
+- duplicazione dei dati  
+- errori di inserimento  
+- impossibilità di fare statistiche affidabili  
+- difficoltà nel sapere cosa contiene ogni ordine  
+
+La direzione richiede la creazione di un **database relazionale SQL** centralizzato.
+
+---
+
+## 🎯 Obiettivo del progetto
+
+Progettare e implementare un database chiamato:
+
+bookwave_db
 
 che consenta di:
 
